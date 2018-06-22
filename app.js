@@ -17,3 +17,4 @@ add (numero1, numero2);
 
 const tallerDeMike
 const siSepuede
+let como estas 
