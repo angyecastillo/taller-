@@ -13,3 +13,7 @@ multiply =(result, numero3) => {
   return resultMultiply;
 }
 add (numero1, numero2);
+
+
+const tallerDeMike
+const siSepuede
