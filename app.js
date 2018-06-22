@@ -4,7 +4,7 @@ const numero3 = 36325;
 
 add =(numero1,numero2) =>{
   const result =numero1 + numero2;
-  console.log(result);
+  console.log(result);// es una consola
   multiply (result, numero3);
 }
 multiply =(result, numero3) => {
